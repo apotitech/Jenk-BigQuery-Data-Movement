@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BigQuery ETL framework
 A script and guide on how to move data from data sources to staging and build a complete data warehouse on BigQuery
 
@@ -172,8 +171,3 @@ JSON Explanation
 ```
 
 You can use this site to compose your JSON https://jsoneditoronline.org
-=======
-# maven-project
-
-Simple Maven Project
->>>>>>> 8b6d86bbf70b241f665c22bba505855e7bd645da
